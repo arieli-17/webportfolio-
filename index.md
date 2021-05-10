@@ -1,22 +1,23 @@
-## Portfolio
+## Arieli's Portfolio
 
 ---
 
-### Category Name 1 
+### My Creative Works
 
-[Project 1 Title](/sample_page)
+[Project 1 Galaxy Cat](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Mother's Day Poster](/pdf/sample_presentation.pdf)
+<img src="images/ecard.png?raw=true"/>
+
+---
+[Project 3 Surrealism Project](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 4 Surrealism Project](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
